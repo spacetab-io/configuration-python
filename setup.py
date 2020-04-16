@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-__version__ = '1.1.3'
+__version__ = '1.1.4'
 
 setup(
     version=__version__,
@@ -16,8 +16,8 @@ setup(
     author='Roquie, detrous',
     author_email='roquie0@gmail.com, artyom.slobodyan@gmail.com',
 
-    url='https://github.com/microparts/configuration-python',
-    download_url='https://github.com/microparts/configuration-python/archive/%s.tar.gz' % __version__,
+    url='https://github.com/spacetab-io/configuration-python',
+    download_url='https://github.com/spacetab-io/configuration-python/archive/%s.tar.gz' % __version__,
 
     license='GPL-3.0-only',
     classifiers=[
