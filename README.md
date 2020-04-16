@@ -1,7 +1,7 @@
 Python Microservice configuration module
 -------------------------------------
 
-[![CircleCI](https://circleci.com/gh/microparts/configuration-python/tree/master.svg?style=svg)](https://circleci.com/gh/microparts/configuration-python/tree/master)
+[![CircleCI](https://circleci.com/gh/spacetab-io/configuration-python/tree/master.svg?style=svg)](https://circleci.com/gh/spacetab-io/configuration-python/tree/master)
 
 Configuration module for microservices written on Python. Specially created
 for follow up corporate standards of application configuration.
