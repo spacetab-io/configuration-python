@@ -105,6 +105,6 @@ class PKG(object):
         """Parses the yaml file"""
 
         try:
-            return yaml.load(open(path, 'r')).get(stage, None)
+            return yaml.safe_load(open(path, 'r')).get(stage, None)
         except:
             return None
